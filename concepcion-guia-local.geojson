@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.8279175,-73.0124779]
+      },
+      "properties": {
+        "id": 1,
+        "nombre": "Inicio - Los Fresnos"
+      }
+    }
+  ]
+}
