@@ -5,11 +5,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-36.8279175,-73.0124779]
+        "coordinates": [-73.0124779, -36.8279175]
       },
       "properties": {
-        "id": 1,
-        "nombre": "Inicio - Los Fresnos"
+        "nombre": "Plaza de Coronel",
+        "categoria": "Plaza",
+        "descripcion": "Lugar de interés local"
       }
     }
   ]
